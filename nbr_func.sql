@@ -41,7 +41,7 @@ return nbr_lev;
 end;
 
 
-
+---以下为将临时代码编写成存储过程
 
 CREATE OR REPLACE FUNCTION mob_lev2
 /*
